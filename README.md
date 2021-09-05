@@ -10,4 +10,7 @@ First attempt at JavaScript
 - JavaScript
 
 ## Author 
-- Onoriode Dafetta [@didhee](https://github.com/didhee)
+Onoriode Dafetta 
+- Github: [@didhee](https://github.com/didhee)
+- Instagram: [@the_didhee](https://www.instagram.com/the_didhee)
+- Twitter: [@the_didhee](https://www.twitter.com/the_didhee)
